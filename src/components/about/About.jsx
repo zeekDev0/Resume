@@ -12,11 +12,7 @@ const About = () => {
         <div className='a-right'>
             <h1 className='a-title'>About Me</h1>
             <p className='a-sub'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Perspiciatis voluptatem corporis impedit nostrum,
-             fuga in consequuntur at rerum quod est nulla praesentium 
-             ad sapiente eius totam. 
-            Deserunt delectus ullam reprehenderit?
+            Organized and dependable Software Developer successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.
             </p>
             <p className='a-desc'>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. 

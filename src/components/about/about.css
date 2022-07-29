@@ -40,13 +40,13 @@
     object-fit: cover;
 }
 .a-school-logo{
-    width: 20%;
-    height: 30%;
+    width: 67%;
+    height: 35%;
     border-radius: 20px;
 }
 
 a.title{
-    font-weight: 400;
+    font-weight: 400;  
 
 }
 .a-sub{
@@ -57,14 +57,29 @@ a.title{
     font-weight: 300;
 }
 
-.a-edu{
-    margin-top: 0px;
+.a-edu-wrapper{
+    
+    display:flex;
+    justify-content: center;
+}
+.a-edu-item{
+    width: 180px;
     display: flex;
-    align-items: center;
-    justify-content: space-between;
+    flex-direction: row;
     flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: flex-start
 }
 .a-texts{
-    
-    width: 70%;
+    display: flex;
+    width: 73%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.a-edu-studied{
+    font-weight: 500;
+}
+.a-edu-date{
+    font-size: 12px;
+    font-weight: 200;
 }
